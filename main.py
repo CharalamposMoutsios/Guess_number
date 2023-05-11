@@ -1,5 +1,6 @@
 import random
 
+
 def guess_the_number():
     print("Welcome to Guess the Number!")
     print("Try to guess the secret number within the chosen range.")
