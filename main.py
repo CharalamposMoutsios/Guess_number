@@ -1,5 +1,6 @@
 import random
 
+
 # Define function to get player input and validate it
 def get_input(prompt, type_=None, min_=None, max_=None, range_=None):
     while True:
