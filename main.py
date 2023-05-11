@@ -16,6 +16,7 @@ def get_input(prompt, type_=None, min_=None, max_=None, range_=None):
         except ValueError:
             print("Invalid input.")
 
+
 # Define function to play the game
 def play_game():
     print("Welcome to Guess the Number!")
